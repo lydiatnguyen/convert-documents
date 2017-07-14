@@ -16,3 +16,4 @@ echo "Converted Polen Markdown to ODT"
 pandoc polen.md --latex-engine=pdflatex -o polen.pdf
 echo "Converted Polen Markdown to PDF"
 # Make the command line read "Converted INPUT-FILENAME to HTML, DOCX, ODT, PDF
+echo "Converted polen.md to HTML, DOCX, ODT, PDF"
